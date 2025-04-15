@@ -2,7 +2,9 @@
 <img height="200" src= "https://i.postimg.cc/9fdSNxD0/Firewall-3.jpg"/>
 </div>
 <div align="left"> <h3>Description</h3></div>
-<h><p align="left"> SFirewall is a Python-based application built using the Tkinter library, designed to enhance the security of computer systems or networks. With an intuitive graphical user interface (GUI), this app empowers users to configure and manage firewall rules seamlessly.</p></h>
+<h><p align="left"> 
+
+*sFirewall* is a Python-based application built using the Tkinter library, designed to enhance the security of computer systems or networks. With an intuitive graphical user interface (GUI), this app empowers users to configure and manage firewall rules seamlessly.</p></h>
 <div align="left"> <h3>Use Case</h3></div>
 
 ⦁ **Network Security** : Protects networks from unauthorized access and malicious activity.
