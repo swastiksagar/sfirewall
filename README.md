@@ -30,8 +30,8 @@
 
 <div align="left"> <h3>Installation</h3></div>
 
-**Install the .exe file from the release section.**
+Install the .exe file from the release section.
 
 <div align="left"> <h3>Requirements</h3></div>
 
-**For the v1.5 python needed to be Installed on the Computer.**
+For the v1.5 python needed to be Installed on the Computer.
