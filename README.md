@@ -34,5 +34,5 @@ Install the *.exe* file from the release section.
 
 <div align="left"> <h3>Requirements</h3></div>
 
-- ***Python***
+- ***Python 3.12+***
 - ***Windows OS***
