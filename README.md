@@ -13,7 +13,7 @@
 ⦁ **System Administration** : Helps system administrators manage network traffic and security.
   <div align="left">
 
-  <div align="left"> <h3>Benifits</h3></div>
+  <div align="left"> <h3>Features</h3></div>
 
 ⦁ **Domain Blocking** : Prevent access to specific domains known for malicious content or phishing attempts.
   <div align="left">
@@ -23,3 +23,18 @@
 
 ⦁ **Application Control** : Disable specific applications that pose security risks, such as untrusted or outdated software.
   <div align="left">
+
+<div align="left"> <h3>Screenshot</h3></div>
+
+![Screenshot](https://i.postimg.cc/SNfvMWzt/Screenshot-2025-04-24-101602.png)
+
+<div align="left"> <h3>Installation</h3></div>
+
+```
+Install the .exe file from the release section 
+```
+<div align="left"> <h3>Requirements</h3></div>
+
+```
+For the v1.5 python needed to be Installed on the Computer
+```
