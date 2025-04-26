@@ -16,7 +16,7 @@
     # The release tag to be used for creating manifests.
     release-tag: # default is ${{ github.event.release.tag_name || github.ref_name }}
     # GitHub token to create pull request on Windows Package Manager Community Repository.
-    token: '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'
+    token: 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
     # GitHub username where the fork of winget-pkgs is present.
     fork-user: # default is ${{ github.repository_owner }}
           
