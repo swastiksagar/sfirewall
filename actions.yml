@@ -1,0 +1,15 @@
+- name: WinGet Releaser
+  uses: vedantmgoyal9/winget-releaser@v2
+  name: Psfirewall
+on:
+  release:
+    types: [released]
+jobs:
+  publish:
+    runs-on: windows-latest
+    steps:
+      - uses: vedantmgoyal9/winget-releaser@main
+        with:
+          identifier: sfirewall.sfirewall
+          max-versions-to-keep: 5 # keep only latest 5 versions
+          token: ${{ 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 }}
