@@ -1,0 +1,23 @@
+name: WinGet Releaser
+
+on:
+  release:
+    types: [published] # Correct trigger event
+
+jobs:
+  winget-release:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Run WinGet Releaser
+        uses: vedantmgoyal9/winget-releaser@v2
+        with:
+          identifier: SwastikSagar.sFirewall.PreRelease
+          installers-regex: \.exe$
+          max-versions-to-keep: 0
+          release-repository: sfirewall
+          token: ${{ secrets.WINGET_TOKEN }}
+          fork-user: swastiksagar
