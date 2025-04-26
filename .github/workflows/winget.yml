@@ -8,5 +8,5 @@ with:
   release-repository: sfirewall
   token: ${{ secrets.WINGET_TOKEN }} # <- Token must come from secret
   fork-user: swastiksagar
-
+  'on'
           
