@@ -6,11 +6,11 @@ with:
 # The PackageIdentifier of the package (case-sensitive).
 identifier: sfirewall
 # The PackageVersion of the package you want to release.
-version: # optional
+version: 1.5 # optional
 # The regex to match the installers.
-installers-regex: # default is .(exe|msi|msix|appx)(bundle){0,1}$
+installers-regex: .exe # default is .(exe|msi|msix|appx)(bundle){0,1}$
 # The maximum number of versions to keep in WinGet Community Repository (Default: 0 - no limit)
-max-versions-to-keep: # default is 0
+max-versions-to-keep: 0 # default is 0
 # The repository where the release is present (should be present under same user/organization).
 release-repository: # default is ${{ github.event.repository.name }}
 # The release tag to be used for creating manifests.
@@ -20,3 +20,4 @@ token: github_pat_11A5RLBOI0KiNiS8pL0YB5_i8ULRZ0srmpLijuaNAF4vXvcVEVvuG9ucb94ulQ
 # GitHub username where the fork of winget-pkgs is present.
 fork-user: # default is ${{ github.repository_owner }}
           
+ACTIONS_RUNNER_DEBUG: true
