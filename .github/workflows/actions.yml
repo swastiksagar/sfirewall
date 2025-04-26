@@ -1,0 +1,8 @@
+- name: WinGet Releaser
+  uses: vedantmgoyal9/winget-releaser@v2
+  identifier: sFirewall
+  version: 1.5
+  installers-regex: \.exe$
+  max-versions-to-keep: 0
+  
+  
