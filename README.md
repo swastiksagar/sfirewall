@@ -33,7 +33,7 @@
 - Install the *.exe* file from the release section.
 - Install using *Winget* Command
 ```
-winget install --id=SwastikSagar.sFirewall.PreRelease
+winget install --id=SwastikSagar.sFirewall.PreRelease -e
 ```
 
 <div align="left"> <h3>Requirements</h3></div>
