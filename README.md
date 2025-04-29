@@ -30,9 +30,13 @@
 
 <div align="left"> <h3>Installation</h3></div>
 
-Install the *.exe* file from the release section.
+- Install the *.exe* file from the release section.
+- Install using *Winget* Command
+```
+winget install --id=SwastikSagar.sFirewall.PreRelease
+```
 
 <div align="left"> <h3>Requirements</h3></div>
 
-- ***Python 3.12+***
-- ***Windows OS***
+- *Python 3.12+*
+- *Windows OS*
