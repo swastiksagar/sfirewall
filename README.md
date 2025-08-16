@@ -22,7 +22,7 @@
 ⦁ **Application Control** : Disable specific applications that pose security risks, such as untrusted or outdated software.
   <div align="left">
 
-<div align="left"> <h3>Screenshot</h3></div>
+<div align="left"> <h3>Preview</h3></div>
 
 ![Screenshot](https://i.postimg.cc/SNfvMWzt/Screenshot-2025-04-24-101602.png)
 
