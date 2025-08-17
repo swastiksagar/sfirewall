@@ -8,19 +8,13 @@
 <div align="left"> <h3>Use Case</h3></div>
 
 ⦁ **Network Security** : Protects networks from unauthorized access and malicious activity.<br>
-
 ⦁ **System Administration** : Helps system administrators manage network traffic and security.<br>
 
   <div align="left"> <h3>Features</h3></div>
 
-⦁ **Domain Blocking** : Prevent access to specific domains known for malicious content or phishing attempts.
-  <div align="left">
-
-⦁ **IP Address Filtering** : Restrict inbound or outbound traffic from certain IP addresses to safeguard against cyberattacks.
-  <div align="left">
-
-⦁ **Application Control** : Disable specific applications that pose security risks, such as untrusted or outdated software.
-  <div align="left">
+⦁ **Domain Blocking** : Prevent access to specific domains known for malicious content or phishing attempts.<br>
+⦁ **IP Address Filtering** : Restrict inbound or outbound traffic from certain IP addresses to safeguard against cyberattacks.<br>
+⦁ **Application Control** : Disable specific applications that pose security risks, such as untrusted or outdated software.<br>
 
 <div align="left"> <h3>Preview</h3></div>
 
