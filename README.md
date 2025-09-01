@@ -55,9 +55,7 @@ Buttons:<br>
 ##
 **Active Connections Section**: Displays real-time network activity and connection details.
 
-Large Text Area:<br>
-
-Shows a list of active connections with the following attributes:<br>
+Large Text Area: Shows a list of active connections with the following attributes:<br>
 
 ⦁ Local Address & Port: IP and port on the user's machine<br>
 ⦁ Remote Address & Port: IP and port of the external connection<br>
