@@ -16,6 +16,7 @@
 **Domain Blocking**: Prevent access to specific domains known for malicious content or phishing attempts.<br>
 
 This section allows users to block or unblock specific domain names.<br>
+
 Input Field:<br>
 ⦁ Label: Domain Name<br>
 ⦁ Purpose: Enter the domain to be blocked or unblocked (e.g., example.com)<br>
@@ -27,6 +28,7 @@ Buttons:<br>
 **IP Address Filtering**: Restrict inbound or outbound traffic from certain IP addresses to safeguard against cyberattacks.<br>
 
 Used to block or unblock specific IP addresses and ports.<br>
+
 ⦁ Input Fields:<br>
 ⦁ IP Address: Enter the target IP (e.g., 192.168.1.1)<br>
 ⦁ Port: Specify the port number (e.g., 443)<br>
@@ -42,6 +44,7 @@ Buttons:<br>
 **Application Control**: Disable specific applications that pose security risks, such as untrusted or outdated software.<br>
 
 Allows blocking of specific applications by their file path.<br>
+
 ⦁ Input Field:<br>
 ⦁ Label: Application Path<br>
 ⦁ Purpose: Enter the full path to the executable (e.g., C:\Program Files\App\App.exe)<br>
