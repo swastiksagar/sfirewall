@@ -79,9 +79,9 @@ Examples from the list:<br>
 
 <div align="left"> <h3>Installation</h3></div>
 
-*Install the **.exe** file from the release section.*<br>
+Install the **.exe** file from the release section.<br>
 
-*Install using **Winget** Command.*<br>
+Install using **Winget** Command.<br>
 ```
 winget install --id=SwastikSagar.sFirewall.PreRelease -e
 ```
