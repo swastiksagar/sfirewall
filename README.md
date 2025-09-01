@@ -23,7 +23,7 @@ Input Field:<br>
 
 Buttons:<br>
 ⦁ Block Domain: Initiates blocking of the entered domain<br>
-⦁ Unblock Domain: Presumably short for "Unblock Domain" -- removes the domain from the block list<br>
+⦁ Unblock Domain: Removes the domain from the block list<br>
 ##
 **IP Address Filtering**: Restrict inbound or outbound traffic from certain IP addresses to safeguard against cyberattacks.<br>
 
