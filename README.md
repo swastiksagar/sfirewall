@@ -89,11 +89,11 @@ System Processes Overview
 <div align="left"> <h3>Installation</h3></div>
 
 ⦁ Download the *.exe* file from the release section.<br>
-
-⦁ Install using *Winget* Command.<br>
 ```
 winget install --id=SwastikSagar.sFirewall.PreRelease -e
 ```
+⦁ Install using *Winget* Command.<br>
+
 
 <div align="left"> <h3>Requirements</h3></div>
 
