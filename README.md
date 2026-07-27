@@ -1,4 +1,4 @@
-<div align="middle">
+<div align="left">
     
 <img width="" height="200" alt="sfirewall-banner" src="https://github.com/user-attachments/assets/8b069a56-a383-4c35-aa18-2d0e0944ba91" /></div>
 
