@@ -1,6 +1,5 @@
 <div align="left">
-    
-<img width="" height="200" alt="sfirewall-banner" src="https://github.com/user-attachments/assets/8b069a56-a383-4c35-aa18-2d0e0944ba91" /></div>
+<img width="" height="240" alt="sfirewall-banner-1280x420" src="https://github.com/user-attachments/assets/214e8aa7-63ce-437d-a228-4c011b9af8af" /></div>
 
 <div align="left"> <h3>Description</h3></div>
 <h><p align="left"> 
